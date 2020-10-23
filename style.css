@@ -1,0 +1,22 @@
+.photowrapper{
+    height: 600px;
+    width: 100%;
+}
+img{
+    width: 100%;
+    height: inherit;
+    object-fit: cover;
+}
+.flexRow{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.imgDiv{
+    height: 190px;
+    width: 286px;
+}
+.marginTop{
+    margin-top: 20px;
+}
